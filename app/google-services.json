@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583831635842",
+    "firebase_url": "https://infinite-c8aff.firebaseio.com",
+    "project_id": "infinite-c8aff",
+    "storage_bucket": "infinite-c8aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583831635842:android:3c97038cf56664fa",
+        "android_client_info": {
+          "package_name": "com.infinite.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583831635842-72tjervgv8n7cpjhmvi78gh12v6uskii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinite.fireapp",
+            "certificate_hash": "4b607285c3f585974ed6c506abc2b4e81bc4595a"
+          }
+        },
+        {
+          "client_id": "583831635842-h0ke7uvr5p7pirm5o41kf752lri79kie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwORKNSOphTtTfRkC4m_8eGyF_omN8io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583831635842-h0ke7uvr5p7pirm5o41kf752lri79kie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Change are_ads_enabled to true if you want to enable ads-->
+    <bool name="are_ads_enabled">false</bool>
+    <bool name="is_status_ad_enabled">false</bool>
+    <bool name="is_calls_ad_enabled">false</bool>
+    <bool name="is_new_chat_ad_enabled">false</bool>
+    <bool name="is_interstitial_ad_enabled">false</bool>
+
+
+</resources>
