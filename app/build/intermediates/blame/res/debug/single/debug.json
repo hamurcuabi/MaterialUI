@@ -20,20 +20,20 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f44f_1f3fc.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f380.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f380.png"
-    },
-    {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f4b3.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f4b3.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_my_statuses.xml.flat",
+        "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\src\\main\\res\\menu\\menu_action_my_statuses.xml"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action_my_statuses.xml.flat",
-        "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\src\\main\\res\\menu\\menu_action_my_statuses.xml"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f4b3.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f4b3.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f380.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f380.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f457.png.flat",
@@ -56,24 +56,24 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-mdpi-v4\\orca_attachments_arrow.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2648.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_2648.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\9e9d3d87dacc003b2542028a6d87c7a3\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f63f.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f63f.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_crop_image_activity.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.7.0.aar\\bf82488367e743ff2110a628ea1c6d18\\res\\layout\\crop_image_activity.xml"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f63f.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f63f.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\storage-chooser-2.0.4.2.aar\\3ff6512d419a6bce5b3cc4b665bd6a02\\res\\drawable-mdpi-v4\\ic_check_white_24dp.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_record.xml.flat",
-        "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\cameraView\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\ic_record.xml"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f64c_1f3fc.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f64c_1f3fc.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_record.xml.flat",
+        "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\cameraView\\build\\intermediates\\packaged_res\\debug\\drawable-anydpi-v21\\ic_record.xml"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_chevron_left_white_18dp.png.flat",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-mdpi-v4\\orca_composer_tab_pressed.9.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6a4.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f6a4.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f466.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f466.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6a4.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f6a4.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f605.png.flat",
@@ -156,24 +156,24 @@
         "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\cameraView\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_record.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_voice_search.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\materialsearchview-1.4.0.aar\\ad4de98e022be280a752f1468eeb9130\\res\\drawable-xxxhdpi\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_fui_idp_button_background_facebook.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.1.aar\\44b65ab672d2346753721a33ab14e728\\res\\drawable-v21\\fui_idp_button_background_facebook.xml"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_divider_material.xml.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable\\abc_list_divider_material.xml"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f474_1f3fb.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f474_1f3fb.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_divider_material.xml.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable\\abc_list_divider_material.xml"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_media_grid_content.xml.flat",
@@ -188,20 +188,20 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f510.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f473_1f3fc.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f473_1f3fc.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_up.xml.flat",
         "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_up.xml"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_crop_image_menu_rotate_right.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.7.0.aar\\bf82488367e743ff2110a628ea1c6d18\\res\\drawable-xxhdpi-v4\\crop_image_menu_rotate_right.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f473_1f3fc.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f473_1f3fc.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b6dbc023597501fc4dcbd0698d822fb1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_crop_image_menu_rotate_right.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.7.0.aar\\bf82488367e743ff2110a628ea1c6d18\\res\\drawable-xxhdpi-v4\\crop_image_menu_rotate_right.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f910.png.flat",
@@ -300,12 +300,12 @@
         "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\src\\main\\res\\drawable\\ic_check_read.xml"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f54a.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f54a.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f171.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f171.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f54a.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f54a.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f483_1f3fb.png.flat",
@@ -452,16 +452,16 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f3b7.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47b.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f47b.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\20f7b7e380424de5a05f122325e7a851\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f309.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f309.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\20f7b7e380424de5a05f122325e7a851\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47b.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f47b.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f21a.png.flat",
@@ -580,12 +580,12 @@
         "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\cameraView\\build\\intermediates\\packaged_res\\debug\\drawable-xxxhdpi-v4\\ic_flash_off.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2796.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_2796.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recv_ic_delete.xml.flat",
@@ -656,16 +656,16 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f468_1f3ff.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fui_ic_facebook_white_22dp.xml.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.1.aar\\44b65ab672d2346753721a33ab14e728\\res\\drawable\\fui_ic_facebook_white_22dp.xml"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_gif.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\46e47dccef01328b506d7cfda542c3a6\\res\\drawable-xxhdpi-v4\\ic_gif.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_gif.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\46e47dccef01328b506d7cfda542c3a6\\res\\drawable-xxhdpi-v4\\ic_gif.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fui_ic_facebook_white_22dp.xml.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.1.aar\\44b65ab672d2346753721a33ab14e728\\res\\drawable\\fui_ic_facebook_white_22dp.xml"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach_file.png.flat",
@@ -744,20 +744,20 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_267b.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f48a.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f48a.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\9e9d3d87dacc003b2542028a6d87c7a3\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f518.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f518.png"
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f48a.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f48a.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f518.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f518.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f36f.png.flat",
@@ -772,12 +772,12 @@
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\storage-chooser-2.0.4.2.aar\\3ff6512d419a6bce5b3cc4b665bd6a02\\res\\drawable-hdpi-v4\\ic_chevron_left_white_36dp.png"
     },
     {
-        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_action_search.png.flat",
-        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\materialsearchview-1.4.0.aar\\ad4de98e022be280a752f1468eeb9130\\res\\drawable-xxhdpi\\ic_action_action_search.png"
-    },
-    {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f17e.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_1f17e.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_action_search.png.flat",
+        "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\materialsearchview-1.4.0.aar\\ad4de98e022be280a752f1468eeb9130\\res\\drawable-xxhdpi\\ic_action_action_search.png"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2709.png.flat",
@@ -1154,6 +1154,10 @@
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23f2.png.flat",
         "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.1.aar\\ead8e10b434218fa19bcffdbe7729d16\\res\\drawable-nodpi-v4\\emoji_23f2.png"
+    },
+    {
+        "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fullscreen_demo.xml.flat",
+        "source": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\src\\main\\res\\layout\\fullscreen_demo.xml"
     },
     {
         "merged": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_attach_camera.png.flat",

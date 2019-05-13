@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#android.support.v4.content.FileProvider
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:273:9-281:20
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:283:9-291:20
 	android:grantUriPermissions
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:277:13-47
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:287:13-47
 	android:authorities
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:275:13-60
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:285:13-60
 	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:276:13-37
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:286:13-37
 	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:274:13-67
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:284:13-67
 manifest
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
 MERGED from [io.realm:realm-android-library:5.4.0] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.4.0.aar\4382f95438581ad021f346a6df89d893\AndroidManifest.xml:2:1-10:12
 MERGED from [com.android.support:multidex:1.0.3] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\0eb26c9ff62c8d7776388cdde23e5068\AndroidManifest.xml:17:1-22:12
 MERGED from [:cameraView] H:\WhatsAppClone\FireAppAndroidApp\cameraView\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
@@ -125,22 +125,22 @@ MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Emre Hmrc\.gradle\ca
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\e0917c499210bdbbe7d6abb7db4209b0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.0.0] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.0.0.aar\8892a900aef634498a5173a2ba4aa28a\AndroidManifest.xml:2:1-9:12
 MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\6420c594a14bc7ec1ddf776836127a4b\AndroidManifest.xml:1:116-8:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
-INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
+INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
 	package
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:4:5-35
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-296:12
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:1-306:12
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2:11-69
@@ -273,7 +273,7 @@ ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:2
 	android:name
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:24:9-53
 application
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:27:5-294:19
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:27:5-304:19
 MERGED from [:cameraView] H:\WhatsAppClone\FireAppAndroidApp\cameraView\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
 MERGED from [:cameraView] H:\WhatsAppClone\FireAppAndroidApp\cameraView\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.2.1] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.2.1.aar\44b65ab672d2346753721a33ab14e728\AndroidManifest.xml:15:5-91:19
@@ -447,7 +447,7 @@ ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:6
 	android:name
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:62:13-75
 activity#com.infinite.fireapp.activities.ChatActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:65:9-70:59
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:65:9-76:20
 	android:screenOrientation
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:69:13-49
 	android:parentActivityName
@@ -458,302 +458,312 @@ ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:6
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:70:13-56
 	android:name
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:66:13-72
-activity#com.infinite.fireapp.activities.FullscreenActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:71:9-75:54
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:74:13-49
-	android:label
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:73:13-29
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:75:13-51
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:72:13-78
-activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:76:9-85
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:76:19-82
-activity#com.infinite.fireapp.activities.CameraActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:77:9-80:59
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:79:13-49
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:80:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:78:13-74
-activity#com.infinite.fireapp.activities.ProfilePhotoDialog
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:81:9-83:50
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:83:13-47
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:82:13-78
-activity#com.infinite.fireapp.activities.ForwardActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:84:9-148:20
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:87:13-49
-	android:launchMode
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:86:13-43
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:88:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:85:13-75
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:94:13-100:29
-action#android.intent.action.SEND
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:95:17-69
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:95:25-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:com.infinite.fireapp
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:71:13-75:29
 category#android.intent.category.DEFAULT
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:97:17-76
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:72:17-76
 	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:97:27-73
-data
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:99:17-55
-	android:host
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:210:21-61
-	android:scheme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:212:21-42
-	android:mimeType
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:99:23-52
-	android:pathPrefix
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:211:21-43
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:103:13-109:29
-intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:113:13-119:29
-action#android.intent.action.SEND_MULTIPLE
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:114:17-78
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:114:25-75
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:123:13-129:29
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:132:13-138:29
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/x-vcard
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:141:13-147:29
-activity#com.infinite.fireapp.activities.UserDetailsActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:149:9-152:59
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:151:13-49
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:152:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:150:13-79
-activity#com.infinite.fireapp.activities.MediaGalleryActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:153:9-156:59
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:155:13-49
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:156:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:154:13-80
-activity#com.infinite.fireapp.activities.SelectContactNumbersActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:157:9-159:52
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:159:13-49
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:158:13-88
-activity#com.infinite.fireapp.activities.ContactDetailsActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:160:9-162:52
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:162:13-49
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:161:13-82
-activity#com.infinite.fireapp.activities.settings.SettingsActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:163:9-167:52
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:167:13-49
-	android:parentActivityName
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:166:13-86
-	android:label
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:165:13-60
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:164:13-85
-activity#com.infinite.fireapp.activities.ProfilePhotoActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:168:9-171:54
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:170:13-49
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:171:13-51
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:169:13-80
-activity#com.infinite.fireapp.activities.SetupUserActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:172:9-175:58
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:174:13-49
-	android:windowSoftInputMode
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:175:13-55
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:173:13-77
-activity#com.infinite.fireapp.activities.NewGroupActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:176:9-178:59
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:178:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:177:13-76
-activity#com.infinite.fireapp.activities.ViewStatusActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:179:9-182:54
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:181:13-49
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:182:13-51
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:180:13-78
-activity#com.infinite.fireapp.activities.MyStatusActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:183:9-191:20
-	android:parentActivityName
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:186:13-86
-	android:label
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:185:13-61
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:187:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:184:13-76
-meta-data#android.support.PARENT_ACTIVITY
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:188:13-190:80
-	android:value
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:190:17-77
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:189:17-63
-activity#com.infinite.fireapp.activities.CallingActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:192:9-196:59
-	android:screenOrientation
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:195:13-49
-	android:launchMode
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:194:13-48
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:196:13-56
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:193:13-75
-activity#com.infinite.fireapp.activities.NewCallActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:197:9-84
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:197:19-81
-activity#com.infinite.fireapp.activities.AcceptInviteLink
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:199:9-220:20
-	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:201:13-47
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:200:13-76
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/group_invite_host+data:host:@string/group_invite_host+data:pathPrefix:/+data:pathPrefix:/+data:scheme:http+data:scheme:https
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:203:13-219:29
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:72:27-73
 action#android.intent.action.VIEW
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:204:17-69
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:73:17-69
 	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:204:25-66
-category#android.intent.category.BROWSABLE
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:207:17-78
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:207:27-75
-service#com.infinite.fireapp.job.NetworkJobService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:223:9-225:72
-	android:permission
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:225:13-69
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:224:13-70
-service#com.infinite.fireapp.job.SaveTokenJob
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:226:9-228:72
-	android:permission
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:228:13-69
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:227:13-65
-service#com.infinite.fireapp.job.SetLastSeenJob
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:229:9-231:72
-	android:permission
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:231:13-69
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:230:13-67
-service#com.infinite.fireapp.job.SyncContactsJob
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:232:9-234:72
-	android:permission
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:234:13-69
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:233:13-68
-service#com.infinite.fireapp.services.MyFCMService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:235:9-242:19
-	android:enabled
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:237:13-35
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:238:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:236:13-70
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:239:13-241:29
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:240:17-78
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:240:25-75
-service#com.infinite.fireapp.services.FCMRegistrationService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:243:9-245:40
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:245:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:244:13-80
-service#com.infinite.fireapp.services.InternetConnectedListener
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:246:9-249:40
-	android:enabled
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:248:13-35
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:249:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:247:13-83
-service#com.infinite.fireapp.services.NetworkService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:251:9-80
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:251:18-77
-service#com.infinite.fireapp.services.AudioService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:253:9-256:40
-	android:enabled
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:255:13-35
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:256:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:254:13-70
-receiver#com.infinite.fireapp.receivers.HandleReplyReceiver
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:258:9-260:40
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:260:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:259:13-78
-receiver#com.infinite.fireapp.receivers.MarkAsReadReceiver
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:261:9-263:40
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:263:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:262:13-77
-service#com.infinite.fireapp.services.SyncContactsService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:265:9-268:40
-	android:enabled
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:267:13-35
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:268:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:266:13-77
-service#com.infinite.fireapp.services.CallingService
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:269:9-271:40
-	android:exported
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:271:13-37
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:270:13-72
-meta-data#com.google.android.geo.API_KEY
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:283:9-285:52
-	android:value
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:285:13-49
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:284:13-58
-meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:286:9-288:52
-	android:value
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:288:13-49
-	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:287:13-69
-activity#com.infinite.fireapp.activities.BackupChatActivity
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:290:9-293:59
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:73:25-66
+data
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:74:17-63
+	android:host
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:220:21-61
+	android:scheme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:74:23-60
+	android:mimeType
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:105:23-52
+	android:pathPrefix
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:221:21-43
+activity#com.infinite.fireapp.activities.FullscreenActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:77:9-81:54
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:80:13-49
 	android:label
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:292:13-63
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:79:13-29
 	android:theme
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:293:13-56
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:81:13-51
 	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:291:13-78
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:78:13-78
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:82:9-85
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:82:19-82
+activity#com.infinite.fireapp.activities.CameraActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:83:9-86:59
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:84:13-74
+activity#com.infinite.fireapp.activities.ProfilePhotoDialog
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:87:9-89:50
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:89:13-47
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:88:13-78
+activity#com.infinite.fireapp.activities.ForwardActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:90:9-154:20
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:93:13-49
+	android:launchMode
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:92:13-43
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:94:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:91:13-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:100:13-106:29
+action#android.intent.action.SEND
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:101:17-69
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:101:25-66
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:109:13-115:29
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:119:13-125:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:120:17-78
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:120:25-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:129:13-135:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:138:13-144:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/x-vcard
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:147:13-153:29
+activity#com.infinite.fireapp.activities.UserDetailsActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:155:9-158:59
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:157:13-49
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:156:13-79
+activity#com.infinite.fireapp.activities.MediaGalleryActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:159:9-162:59
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:161:13-49
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:162:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:160:13-80
+activity#com.infinite.fireapp.activities.SelectContactNumbersActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:164:13-88
+activity#com.infinite.fireapp.activities.ContactDetailsActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:167:13-82
+activity#com.infinite.fireapp.activities.settings.SettingsActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:169:9-173:52
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:173:13-49
+	android:parentActivityName
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:172:13-86
+	android:label
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:171:13-60
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:170:13-85
+activity#com.infinite.fireapp.activities.ProfilePhotoActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:174:9-177:54
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:176:13-49
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:177:13-51
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:175:13-80
+activity#com.infinite.fireapp.activities.SetupUserActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:178:9-181:58
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:180:13-49
+	android:windowSoftInputMode
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:181:13-55
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:179:13-77
+activity#com.infinite.fireapp.activities.NewGroupActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:182:9-184:59
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:184:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:183:13-76
+activity#com.infinite.fireapp.activities.ViewStatusActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:185:9-188:54
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:187:13-49
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:188:13-51
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:186:13-78
+activity#com.infinite.fireapp.activities.MyStatusActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:189:9-197:20
+	android:parentActivityName
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:192:13-86
+	android:label
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:191:13-61
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:193:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:190:13-76
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:194:13-196:80
+	android:value
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:196:17-77
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:195:17-63
+activity#com.infinite.fireapp.activities.CallingActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:198:9-202:59
+	android:screenOrientation
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:201:13-49
+	android:launchMode
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:200:13-48
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:202:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:199:13-75
+activity#com.infinite.fireapp.activities.NewCallActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:203:9-84
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:203:19-81
+activity#com.infinite.fireapp.FullscreenYoutubeActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:204:9-207:59
+	android:launchMode
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:206:13-48
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:207:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:205:13-54
+activity#com.infinite.fireapp.activities.AcceptInviteLink
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:209:9-230:20
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:211:13-47
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:210:13-76
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/group_invite_host+data:host:@string/group_invite_host+data:pathPrefix:/+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:213:13-229:29
+category#android.intent.category.BROWSABLE
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:217:17-78
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:217:27-75
+service#com.infinite.fireapp.job.NetworkJobService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:233:9-235:72
+	android:permission
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:235:13-69
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:234:13-70
+service#com.infinite.fireapp.job.SaveTokenJob
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:236:9-238:72
+	android:permission
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:238:13-69
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:237:13-65
+service#com.infinite.fireapp.job.SetLastSeenJob
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:239:9-241:72
+	android:permission
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:241:13-69
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:240:13-67
+service#com.infinite.fireapp.job.SyncContactsJob
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:242:9-244:72
+	android:permission
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:244:13-69
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:243:13-68
+service#com.infinite.fireapp.services.MyFCMService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:245:9-252:19
+	android:enabled
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:247:13-35
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:248:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:246:13-70
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:249:13-251:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:250:17-78
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:250:25-75
+service#com.infinite.fireapp.services.FCMRegistrationService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:253:9-255:40
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:255:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:254:13-80
+service#com.infinite.fireapp.services.InternetConnectedListener
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:256:9-259:40
+	android:enabled
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:258:13-35
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:259:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:257:13-83
+service#com.infinite.fireapp.services.NetworkService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:261:9-80
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:261:18-77
+service#com.infinite.fireapp.services.AudioService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:263:9-266:40
+	android:enabled
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:265:13-35
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:266:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:264:13-70
+receiver#com.infinite.fireapp.receivers.HandleReplyReceiver
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:268:9-270:40
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:270:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:269:13-78
+receiver#com.infinite.fireapp.receivers.MarkAsReadReceiver
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:271:9-273:40
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:273:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:272:13-77
+service#com.infinite.fireapp.services.SyncContactsService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:275:9-278:40
+	android:enabled
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:277:13-35
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:278:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:276:13-77
+service#com.infinite.fireapp.services.CallingService
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:279:9-281:40
+	android:exported
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:281:13-37
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:280:13-72
+meta-data#com.google.android.geo.API_KEY
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:293:9-295:52
+	android:value
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:295:13-49
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:294:13-58
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:296:9-298:52
+	android:value
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:298:13-49
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:297:13-69
+activity#com.infinite.fireapp.activities.BackupChatActivity
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:300:9-303:59
+	android:label
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:302:13-63
+	android:theme
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:303:13-56
+	android:name
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:301:13-78
 uses-sdk
 INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
@@ -991,11 +1001,11 @@ INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xm
 		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 		INJECTED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:278:13-280:58
+ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:288:13-290:58
 	android:resource
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:280:17-55
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:290:17-55
 	android:name
-		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:279:17-67
+		ADDED from H:\WhatsAppClone\FireAppAndroidApp\app\src\main\AndroidManifest.xml:289:17-67
 meta-data#com.google.android.gms.version
 ADDED from [com.firebaseui:firebase-ui-auth:4.2.1] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.2.1.aar\44b65ab672d2346753721a33ab14e728\AndroidManifest.xml:16:9-18:69
 MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Emre Hmrc\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\9cd79ad4a7efc732887534e145cc36f8\AndroidManifest.xml:23:9-25:69

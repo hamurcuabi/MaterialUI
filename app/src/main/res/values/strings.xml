@@ -313,5 +313,8 @@
     <string name="user_already_added_to_broadcast">user already added to broadcast</string>
     <string name="delete_broadcast_confirmation">Delete this broadcast?</string>
     <string name="no_link_gnerated">No link generated</string>
+    <string name="error_player">Error</string>
+    <string name="enter_fullscreen">Full Screen</string>
+    <string name="landscape_fullscreen">Landscape</string>
 
 </resources>

@@ -98,7 +98,15 @@
             android:label=""
             android:parentActivityName="com.infinite.fireapp.activities.MainActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <data android:scheme="com.infinite.fireapp" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.infinite.fireapp.activities.FullscreenActivity"
             android:label=""
@@ -226,6 +234,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.infinite.fireapp.activities.NewCallActivity" />
+        <activity
+            android:name="com.infinite.fireapp.FullscreenYoutubeActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.infinite.fireapp.activities.AcceptInviteLink"
             android:theme="@style/DialogTheme" >

@@ -80,6 +80,7 @@ dependencies {
     implementation project(path: ':cameraView')
     implementation project(path: ':stories-progress-view')
     implementation(name: 'sinch-android-rtc-3.12.8', version: '3.12.8', ext: 'aar')
+    implementation files('libs/YouTubeAndroidPlayerApi.jar')
 }
 
 

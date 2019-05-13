@@ -149,6 +149,7 @@ public class FullscreenActivity extends AppCompatActivity implements ToolbarStat
         images = RealmHelper.getInstance().getMediaInChat(chatId);
         messages = RealmHelper.getInstance().getMessagesInChat(chatId);
 
+
         mCurrentPosition = getPosFromId(selectedImgMessageId);
 
         mStartingPosition = mCurrentPosition;

@@ -9,6 +9,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewCompat;
 import android.support.v7.widget.RecyclerView;
+import android.text.util.Linkify;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -22,6 +23,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.infinite.fireapp.CustomLinkMovementMethod;
 import com.infinite.fireapp.R;
 import com.infinite.fireapp.activities.ChatActivity;
 import com.infinite.fireapp.activities.ContactDetailsActivity;
@@ -599,11 +601,11 @@ public class MessagingAdapter extends RealmRecyclerViewAdapter<Message, Recycler
     @Override
     public boolean onLongClick(View view) {
 
-
         activity.onActionModeStarted();
 
         return true;
     }
+
 
 
     static class HeaderHolder extends RecyclerView.ViewHolder {
@@ -699,6 +701,8 @@ public class MessagingAdapter extends RealmRecyclerViewAdapter<Message, Recycler
         public SentTextHolder(View itemView) {
             super(itemView);
             tvMessageContent = itemView.findViewById(R.id.tv_message_content);
+            tvMessageContent.setMovementMethod(CustomLinkMovementMethod.getInstance());
+            Linkify.addLinks(tvMessageContent, Linkify.ALL);
 
         }
 
@@ -948,6 +952,8 @@ public class MessagingAdapter extends RealmRecyclerViewAdapter<Message, Recycler
         public ReceivedTextHolder(View itemView) {
             super(itemView);
             tvMessageContent = itemView.findViewById(R.id.tv_message_content);
+            tvMessageContent.setMovementMethod(CustomLinkMovementMethod.getInstance());
+            Linkify.addLinks(tvMessageContent, Linkify.ALL);
         }
 
         @Override

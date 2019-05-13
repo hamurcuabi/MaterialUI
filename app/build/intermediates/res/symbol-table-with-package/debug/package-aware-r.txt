@@ -3409,6 +3409,7 @@ id fragment_register_email
 id frame_layout
 id frame_layout_audio_info
 id front_progress
+id fullscreen_button
 id ghost_view
 id gif
 id glowing_mic
@@ -3472,7 +3473,9 @@ id item_touch_helper_previous_elevation
 id ivSelectedState
 id jcameraview
 id labeled
+id landscape_fullscreen_checkbox
 id largeLabel
+id layout
 id layout_arrow
 id layout_mute
 id layout_only_admins_can_post
@@ -3535,6 +3538,7 @@ id onTouch
 id open_new_chat_fab
 id original
 id originalLayout
+id other_views
 id outline
 id oval
 id overview_container
@@ -3566,6 +3570,7 @@ id place_autocomplete_search_button
 id place_autocomplete_search_input
 id place_autocomplete_separator
 id place_name
+id player
 id profile_full_screen
 id profile_image
 id profile_image_container
@@ -3985,6 +3990,7 @@ layout fui_provider_button_phone
 layout fui_register_email_layout
 layout fui_welcome_back_idp_prompt_layout
 layout fui_welcome_back_password_prompt_layout
+layout fullscreen_demo
 layout item_reply
 layout layout_new_folder_iv
 layout list_row_contact_pick_item
@@ -4261,6 +4267,7 @@ string dummy_content
 string edit
 string edit_recipients
 string empty_text
+string enter_fullscreen
 string enter_is_send_title
 string enter_is_sent_smmary
 string enter_your_name
@@ -4274,6 +4281,7 @@ string error_over_count_default
 string error_over_original_count
 string error_over_original_size
 string error_over_quality
+string error_player
 string error_playing_this
 string error_removing_member
 string error_restoring_backup
@@ -4401,6 +4409,7 @@ string just_now
 string key_autodownload_cellular
 string key_autodownload_roaming
 string key_autodownload_wifi
+string landscape_fullscreen
 string last_backup
 string left_group
 string loading
