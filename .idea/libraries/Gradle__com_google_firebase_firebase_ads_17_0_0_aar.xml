@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-ads:17.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ads-17.0.0.aar/7e1559f4dd1bef4f87fec7c1456aa7d7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ads-17.0.0.aar/7e1559f4dd1bef4f87fec7c1456aa7d7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ads-17.0.0.aar/9476ea6ff7fc6d3c85f0f2ea1758ddc7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ads-17.0.0.aar/9476ea6ff7fc6d3c85f0f2ea1758ddc7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

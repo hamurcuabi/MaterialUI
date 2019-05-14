@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\AndroidApplications\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\3182e92e62e2747d68cefd701e1a6234\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\589839cc8c0443a423deeabb06b96714\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\241de27ea7e9d6a96d9fd325d37ed24a\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\aaf4277735cd2ab76abd6e6212b4a591\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

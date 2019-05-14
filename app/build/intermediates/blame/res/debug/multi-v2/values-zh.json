@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "D:\\AndroidApplications\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.1.aar\\44b65ab672d2346753721a33ab14e728\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\8c76228008480e55c97ea414d32d8349\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,151,203,246,289,336,382,431,482,530,583,647,708,773,863,943,997,1057,1112",
+                        "endColumns": "45,49,51,42,42,46,45,48,50,47,52,63,60,64,89,79,53,59,54,50",
+                        "endOffsets": "96,146,198,241,284,331,377,426,477,525,578,642,703,768,858,938,992,1052,1107,1158"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,27,28,29,93",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "243,289,339,391,434,477,524,570,619,1155,1203,1256,1320,1381,1446,1536,1616,1670,1730,5848",
+                        "endColumns": "45,49,51,42,42,46,45,48,50,47,52,63,60,64,89,79,53,59,54,50",
+                        "endOffsets": "284,334,386,429,472,519,565,614,665,1198,1251,1315,1376,1441,1531,1611,1665,1725,1780,5894"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-4.2.1.aar\\38d016071eec82064567a0543bd71163\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.7.0.aar\\bf82488367e743ff2110a628ea1c6d18\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.7.0.aar\\d99c747a9fccbcd963d09749e4a7ef8c\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "670,750,797,849,901,968,1033,1095,5899",
                         "endColumns": "79,46,51,51,66,64,61,59,64",
                         "endOffsets": "745,792,844,896,963,1028,1090,1150,5959"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\46e47dccef01328b506d7cfda542c3a6\\res\\values-zh\\values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,101,151,203,246,289,336,382,431,482,530,583,647,708,773,863,943,997,1057,1112",
-                        "endColumns": "45,49,51,42,42,46,45,48,50,47,52,63,60,64,89,79,53,59,54,50",
-                        "endOffsets": "96,146,198,241,284,331,377,426,477,525,578,642,703,768,858,938,992,1052,1107,1158"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,20,21,22,23,24,25,26,27,28,29,93",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "243,289,339,391,434,477,524,570,619,1155,1203,1256,1320,1381,1446,1536,1616,1670,1730,5848",
-                        "endColumns": "45,49,51,42,42,46,45,48,50,47,52,63,60,64,89,79,53,59,54,50",
-                        "endOffsets": "284,334,386,429,472,519,565,614,665,1198,1251,1315,1376,1441,1531,1611,1665,1725,1780,5894"
                     }
                 }
             ]

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.devlomi.hidely:hidely:1.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hidely-1.0.0.aar/83383514da0fabbdcf94dfc5c446b240/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hidely-1.0.0.aar/83383514da0fabbdcf94dfc5c446b240/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hidely-1.0.0.aar/10100abb4128d0a55b63a0b62d462f0d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hidely-1.0.0.aar/10100abb4128d0a55b63a0b62d462f0d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

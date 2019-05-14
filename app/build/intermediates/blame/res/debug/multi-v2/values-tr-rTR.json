@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\WhatsAppClone\\FireAppAndroidApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
+            "outputFile": "D:\\AndroidApplications\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Emre Hmrc\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\46e47dccef01328b506d7cfda542c3a6\\res\\values-tr-rTR\\values-tr-rTR.xml",
+                    "source": "C:\\Users\\emreh\\.gradle\\caches\\transforms-1\\files-1.1\\matisse-0.5.2-beta3.aar\\8c76228008480e55c97ea414d32d8349\\res\\values-tr-rTR\\values-tr-rTR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.thoughtbot:expandablerecyclerview:1.3@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandablerecyclerview-1.3.aar/9cc3d3c90f385985144aff1960bac3e3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandablerecyclerview-1.3.aar/9cc3d3c90f385985144aff1960bac3e3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandablerecyclerview-1.3.aar/64827e331e46409878025d1043236d09/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandablerecyclerview-1.3.aar/64827e331e46409878025d1043236d09/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
