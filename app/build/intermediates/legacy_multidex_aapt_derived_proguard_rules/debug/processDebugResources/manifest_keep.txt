@@ -1,4 +1,0 @@
-# Referenced at D:\AndroidApplications\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:59
--keep class android.support.v4.app.CoreComponentFactory { <init>(); }
-# Referenced at D:\AndroidApplications\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:59
--keep class com.infinite.fireapp.utils.MyApp { <init>(); }

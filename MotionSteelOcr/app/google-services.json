@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846755102651",
+    "firebase_url": "https://ocrapp-c0735.firebaseio.com",
+    "project_id": "ocrapp-c0735",
+    "storage_bucket": "ocrapp-c0735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846755102651:android:cf17b2bc3b3246b7",
+        "android_client_info": {
+          "package_name": "com.emrhmrc.motionsteel.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846755102651-3np7ihpts9lfo3lvv6mkja0chi72eum0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3GUs8zdPY0ujIKbrqM8OzRvJcuXu9W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846755102651-3np7ihpts9lfo3lvv6mkja0chi72eum0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846755102651-4vi5dt0r0bobmb5m3cgtsnufbt4rjo6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wonderkiln.camerakit.core"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
