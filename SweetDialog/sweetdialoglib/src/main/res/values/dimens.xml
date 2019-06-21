@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="progres">150dp</dimen>
+    <dimen name="progres_height">10dp</dimen>
+    <dimen name="progres_height_parent">14dp</dimen>
+    <dimen name="progres_padding">2dp</dimen>
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+
+</resources>
