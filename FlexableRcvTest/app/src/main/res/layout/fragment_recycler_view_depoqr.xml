@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/AppTheme.BaseMaterial">
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:enabled="false">
+
+        <!-- This FrameLayout is still mandatory ONLY IF sticky header is enabled. This
+             layout will help to receive the inflated layout at runtime and to display the
+             Refresh circle AND the FastScroll on the top of sticky_header_layout.
+             If you need to drag items, SwipeRefreshLayout must be disabled! -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+               >
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recycler_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="8"
+                    tools:listitem="@layout/recycler_simple_item" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnCancel"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:layout_weight="1"
+                        android:backgroundTint="@color/colorAccent"
+                        android:text="@string/btn_cancel" />
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnMiddle"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:layout_weight="1"
+                        android:visibility="invisible"
+
+                        />
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btncontinue"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:layout_weight="1"
+                        android:text="@string/btn_continue" />
+
+
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+
+            <!-- NOT NEEDED ANYMORE!! This layout is generated at runtime when
+                 sticky headers are enabled. So you can safely remove it. -->
+            <!--<include layout="@layout/sticky_header_layout"/>-->
+
+        </FrameLayout>
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <!-- Custom EmptyView for RV when empty-->
+    <include layout="@layout/empty_view" />
+
+    <!-- Custom EmptyView for RV when filter has empty result-->
+    <include layout="@layout/filter_view" />
+
+    <!-- Custom ProgressBar (at the moment not used) -->
+    <!--<include layout="@layout/progress_bar"/>-->
+
+    <!-- FastScroller Layout must be at the end of ViewHierarchy
+         in order to be displayed at the top of every views -->
+    <include layout="@layout/fast_scroller" />
+
+</FrameLayout>

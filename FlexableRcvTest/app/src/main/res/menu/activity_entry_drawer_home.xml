@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<group android:checkableBehavior="single">
+		<item
+			android:id="@+id/nav_home"
+			android:checked="true"
+			android:icon="@drawable/ic_view_grid_grey600_24dp"
+			android:title="@string/home"/>
+		<item
+			android:id="@+id/nav_listof_items"
+			android:icon="@drawable/ic_select_all_grey600_24dp"
+			android:title="@string/listof_items"/>
+		<item
+			android:id="@+id/nav_generate_box"
+			android:icon="@drawable/ic_filter_outline_grey600_24dp"
+			android:title="@string/generate_box"/>
+		<item
+			android:id="@+id/nav_generate_palet"
+			android:icon="@drawable/ic_chart_gantt_grey600_24dp"
+			android:title="@string/generate_palet"/>
+		<item
+			android:id="@+id/nav_lost_qr"
+			android:icon="@drawable/ic_sections_grey600_24dp"
+			android:title="@string/lost_qr"/>
+		<item
+			android:id="@+id/nav_scan_palet_or_box"
+			android:icon="@drawable/ic_expandable_grey_600_24dp"
+			android:title="@string/scan_palet_or_box"/>
+		<item
+			android:id="@+id/nav_transfer"
+			android:icon="@drawable/ic_expandable_grey_600_24dp"
+			android:title="@string/transfer"/>
+
+		<item
+			android:id="@+id/nav_warehouse_report"
+			android:icon="@drawable/ic_playlist_play_grey600_24dp"
+			android:title="@string/warehouse_report"/>
+		<item
+			android:id="@+id/printer_setup"
+			android:icon="@drawable/printer"
+			android:title="@string/printer_setup"/>
+	</group>
+
+	<item android:title="@string/about_us">
+		<menu>
+			<item
+				android:id="@+id/nav_about"
+				android:icon="@drawable/ic_info_grey600_24dp"
+				android:title="@string/about_us"/>
+
+		</menu>
+	</item>
+
+</menu>

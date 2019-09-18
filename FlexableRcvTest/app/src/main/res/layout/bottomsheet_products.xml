@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_small"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="?actionBarSize"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/boxName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="@color/colorPrimary"
+                android:minWidth="@dimen/icon_height"
+                android:textStyle="bold"
+                android:text="Ürün Eklenmedi"
+                android:textAlignment="center"
+                android:textColor="@color/material_blue_grey_95" />
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/productCount"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/icon_width"
+                android:backgroundTint="@color/colorPrimary"
+                android:minWidth="@dimen/icon_height"
+                android:text="0"
+                android:textAlignment="center"
+                android:textColor="@color/material_text_color_white_text" />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_continue"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/icon_width"
+                android:layout_marginStart="@dimen/margin_small"
+                android:layout_marginEnd="@dimen/margin_small"
+                app:icon="@drawable/ic_action_done"
+                app:iconGravity="textEnd"
+                android:backgroundTint="@color/colorPrimaryDark_light"
+                android:minWidth="@dimen/icon_height"
+                android:text="@string/job_done"
+                android:textAllCaps="false"
+                android:textAlignment="center"
+                android:textColor="@color/material_text_color_white_text" />
+
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/bootsheet_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin_small"
+            android:layout_marginTop="@dimen/margin_small"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Menü</string>
+    <string name="listof_items">Ürün Listesi</string>
+    <string name="generate_box">Koli Oluştur</string>
+    <string name="generate_palet">Palet Oluştur</string>
+    <string name="lost_qr">Kayıp Qr</string>
+    <string name="scan_palet_or_box">Palet/Koli Okut</string>
+    <string name="transfer">Sevkiyat</string>
+    <string name="warehouse_report">Depo Raporu</string>
+    <string name="about_us">Hakkımızda</string>
+    <string name="listof_items_description">Ürünleri liste şeklinde görüntüleme</string>
+    <string name="generate_box_description">Koli oluşturma işlemi</string>
+    <string name="generate_palet_description">Palet oluşturma işlemi</string>
+    <string name="lost_qr_description">Kayıp, yırtılmış vs. qr tespit edip yeniden yazdırma işlemi</string>
+    <string name="scan_palet_or_box_description">Palet/Koli okutup içindekilere göz atma</string>
+    <string name="transfer_description">Depodan mal çıkışı durumları</string>
+    <string name="warehouse_report_description">Deponun güncel durumu hakkında bilgi</string>
+    <string name="home_info_title">Depoqr Menü</string>
+    <string name="home_info_description">Uygulamamızı ana menüsünde görülen işlemler aktif olarak kullanılmaktadır.Yandan açılır menüde de aynı işlemler mevcurtur.</string>
+    <string name="btn_print">Yazdır</string>
+    <string name="done">Bitti</string>
+    <string name="job_done">Bitir</string>
+    <string name="printer_setup">Yazıcı</string>
+    <string name="printer_desc">Yazı bağlantıları ve ayarları</string>
+</resources>
