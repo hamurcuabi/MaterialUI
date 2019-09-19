@@ -28,6 +28,17 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="?actionBarSize"
+        android:layout_marginEnd="16dp"
+        app:backgroundTint="@color/white"
+        app:tint="#000"
+        app:srcCompat="@drawable/qr_scan" />
+
     <include layout="@layout/bottomsheet_products" />
 
 

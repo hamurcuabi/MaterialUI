@@ -60,7 +60,7 @@
 
         <variable
             name="item"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.BottomSheetModel" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.BottomSheetModel" />
 
     </data>
 

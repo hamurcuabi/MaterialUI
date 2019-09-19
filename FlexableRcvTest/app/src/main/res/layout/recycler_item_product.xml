@@ -91,7 +91,7 @@
 
         <variable
             name="product"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.Product" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.Product" />
 
     </data>
 

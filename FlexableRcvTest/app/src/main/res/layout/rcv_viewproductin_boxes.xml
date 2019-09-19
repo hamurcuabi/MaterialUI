@@ -94,7 +94,7 @@
 
         <variable
             name="productinbox"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.apimodels.ViewProductInBox" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.apimodels.ViewProductInBox" />
 
     </data>
 </layout>

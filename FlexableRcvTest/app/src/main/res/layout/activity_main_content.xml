@@ -6,7 +6,7 @@
 	android:id="@+id/main_view"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	tools:context="com.emrhmrc.flexablercvtest.samples.flexibleadapter.MainActivity">
+    tools:context="com.emrhmrc.hateksdepoqr.samples.flexibleadapter.MainActivity">
 
 	<!-- Toolbar -->
 	<com.google.android.material.appbar.AppBarLayout
@@ -101,6 +101,6 @@
 		android:clickable="true"
 		android:src="@drawable/fab_add"
 		app:borderWidth="0dp"
-		app:layout_behavior="com.emrhmrc.flexablercvtest.utils.ScrollAwareFABBehavior"/>
+        app:layout_behavior="com.emrhmrc.hateksdepoqr.utils.ScrollAwareFABBehavior" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

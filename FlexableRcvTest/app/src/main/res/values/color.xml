@@ -14,5 +14,6 @@
     <!-- Override fastScroller bar color and handle idle color -->
     <color name="fast_scroller_bar">#bccc</color>
     <color name="fast_scroller_handle_idle">#caaa</color>
+    <color name="white">#ffffff</color>
 
 </resources>

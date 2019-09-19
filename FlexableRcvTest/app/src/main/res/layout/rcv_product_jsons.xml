@@ -59,7 +59,7 @@
 
         <variable
             name="product"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.apimodels.ProductJsons" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.apimodels.ProductJsons" />
 
     </data>
 

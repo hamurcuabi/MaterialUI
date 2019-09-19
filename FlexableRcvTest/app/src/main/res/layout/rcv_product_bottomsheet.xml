@@ -60,7 +60,7 @@
 
         <variable
             name="product"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.apimodels.Product" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.apimodels.Product" />
 
     </data>
 

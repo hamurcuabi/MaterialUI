@@ -119,7 +119,7 @@
 
         <variable
             name="item"
-            type="com.emrhmrc.flexablercvtest.depoQr.model.BoxInPalet" />
+            type="com.emrhmrc.hateksdepoqr.depoQr.model.BoxInPalet" />
 
     </data>
 </layout>
